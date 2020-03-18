@@ -2,4 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Test Map</title>
+    <topicref
+        href="gitgh://https%3A%2F%2Fgithub.com%2Fg-tit-oxygen%2FMihaela_test1/master/Topic.dita"/>
 </map>
